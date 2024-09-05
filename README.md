@@ -34,6 +34,8 @@
 
 ### 其他
 - [爱思助手](https://www.i4.cn/): iOS应用测试包安装工具
+- [Allpairs](https://github.com/joebmt/allpairs): 正交试验用例生成工具
+- [XMind2Excel](https://github.com/hanzhichao/xmind2excel): XMind测试用例转Excel用例工具
 
 ### 客户端专项
 
