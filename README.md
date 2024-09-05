@@ -3,7 +3,6 @@
 
 ## 功能测试  
 
-
 ### 测试工具
 - [XMind](https://xmind.cn/): 思维导图工具，常用来梳理测试点，商业软件，支持免费试用，有功能限制
 - [XShell](https://www.xshell.com/zh/free-for-home-school/): Windows平台远程Linux服务器连接及操作工具，商业软件，支持免费试用，有功能限制
@@ -20,29 +19,37 @@
 
 
 ### 抓包工具
-
 - [Chrome Devtools](https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html): Chrome浏览器自带的开发组工具，Network面板可用于抓包
 - [Charles](https://www.charlesproxy.com/): 多平台HTTP接口抓包工具，商业软件，支持免费试用
 - [Fiddler](https://www.telerik.com/fiddler): Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序HTTP通讯的数据，可以用其检测网页和服务器的交互情况  
 - [Wireshark](https://www.wireshark.org/)：基于网卡的抓包工具，支持HTTP、TCP、UDP等各种协议的抓包，支持各种操作系统
 - [Mitmtproxy](https://mitmproxy.org/): 开源HTTP抓包工具，支持使用代码编写抓包规则
 - [Anyproxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源多HTTP抓包工具
-- [Tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令。  
+- [Tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令
+
+
+
+### 命令行工具
+- [Idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS
+- [Adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具
+
 
 ### 客户端专项
 
-(TODO)
+### App性能测试
+- [Perfdog](https://perfdog.qq.com/): App性能监控及分析工具，已转为收费软件
 
-### 稳定性测试
-- [Adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具
+#### 稳定性测试
+
 - [Monkey](https://developer.android.com/tools?hl=zh-cn): Android SDK中内置的一款Android稳定性测试工具
 - [FastMonkey](https://github.com/zhangzhao4444/Fastmonkey): 张昭开发的一款基于Swift的iOS稳定性测试统计
 - [SwiftMonkey](https://github.com/zalando/SwiftMonkey): Zalando小组开发的一款iOS稳定性测试工具，以停止维护
+- [WeDdriverAgent](https://github.com/facebookarchive/WebDriverAgent): Facebook开发的iOS自动化测试驱动，可以配合Appium使用
 
-### 弱网测试
+#### 弱网测试
 - [Fiddler](https://www.telerik.com/fiddler)：使用Fiddler抓包工具可以模拟弱网
 - [Charles](https://www.charlesproxy.com/): 使用Charles代理可以模拟弱网
-- [TC](https://linux.die.net/man/8/tc) Linux上控制网络流量的工具  
+- [Tc](https://linux.die.net/man/8/tc) Linux上控制网络流量的工具  
 
 #### 音视频质量
 
@@ -61,18 +68,19 @@
 - [Postman](https://www.getpostman.com/): HTTP接口测试工具，支持HTTP，Websocket，GraphQ， gRPC接口测试，接口管理及Mock等
 - [Bruno](https://www.usebruno.com/): 开源免费的HTTP测试工具，类似Postman，数据存在本地
 - [JMeter](https://jmeter.apache.org/): 工业级的压力测试工具，也可以做接口测试  
-- [SoapUI](https://www.soapui.org/): 基于SOAP协议的Websevice接口测试工具。 
+- [SoapUI](https://www.soapui.org/): 基于SOAP协议的WebSevice接口测试工具
+- [SwitchHosts](https://switchhosts.vercel.app/zh): Hosts配置及切换工具
 
 
 ### 接口管理及测试
 - [YApi](https://hellosean1025.github.io/yapi/): 爱奇艺YMFE团队开源的接口管理平台，支持Mock接口
 - [RAP2](https://github.com/thx/rap2-delos): 阿里开源的接口管理平台，支持Mock接口
 - [ShowDoc](https://www.showdoc.com.cn/): 开源接口文档管理工具，自带模版，方便使用
+- [SwaggerUI](https://swagger.io/tools/swagger-ui/): 与接口代码集成的接口测试插件，可以使用Web界面查看和调试开发好的接口
 - [MeterSphere](https://github.com/metersphere/metersphere): 一站式开源持续测试平台。  
 - [BlazeMeter](https://www.blazemeter.com/): 一站式持续测试平台
 - [Apipost](https://apipost.cn/)]: 一款类似Postman的HTTP接口文档、设计、调试、自动化测试一体化协作工具
 - [ApiFox](https://apifox.com/):  另一款类似Postman的HTTP接口文档、设计、调试、自动化测试一体化协作工具
-
 
 ### 数据库客户端
 - [Navcat](https://www.navicat.com.cn/products): 商业软件，包含MySQL、PostgreSQL、MongoDB、Redis等各种客户端
@@ -106,8 +114,11 @@
 - [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力。  
 
 
-### 安全测试
+### 安全测试&渗透测试
 - [AppScan](https://cloud.appscan.com/): App安全测试工具
+- [Metasploit](https://www.metasploit.com/): 广泛使用的渗透测试自动化框架
+- [BurpSuite](https://portswigger.net/burp): 渗透测试工具套件
+- [Kali Linux](https://www.kali.org/): 包含上百种渗透测试，如漏洞分析，Web应用程序，信息收集，无线攻击，逆向工程，密码破解，取证工具，Web应用程序，欺骗，嗅探相关工具的开源Linux系统
 
 ### 混沌测试
 - [ChaosBlade](https://github.com/chaosblade-io/chaosblade): 阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具。  
@@ -186,11 +197,12 @@
 
 #### Android & iOS自动化
 - [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
-- [STF](https://openstf.io/): STF(smartphone test farm) 移动设备管理工具，通过浏览器控制和管理移动设备。  
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。  
-- [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和游戏，网易开源。  
+- [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和**游戏**测试，网易开源。  
 - [SoloPi](https://github.com/alipay/SoloPi): Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。  
 - [Uiautomator2](https://github.com/openatx/uiautomator2): Python版Uiautomator封装，Android设备测试框架
+- [ATX](https://github.com/NetEaseGame/ATX): 网易推出的AppUI测试框架，支持Android和iOS
+- [STF](https://openstf.io/): STF(smartphone test farm) 移动设备管理工具，通过浏览器控制和管理移动设备。 
 
 #### Flutter App自动化
 - [Flutter测试](https://doc.flutterchina.club/testing/): Flutter中文文档-测试 Flutter App
@@ -200,7 +212,6 @@
 
 #### 微信小程序自动化
 - [MiniTest](https://minitest.weixin.qq.com/#/): 属于小程序和小游戏的自动化测试框架
-
 
 ### 桌面客户端自动化
 - [Pyautogui](https://pyautogui.readthedocs.io/en/latest/): 基于截图识别等桌面自动化框架
@@ -218,15 +229,15 @@
 ### IDE&编辑器
 - [PyCharm](https://www.jetbrains.com/pycharm/): Jetbrains推出的Python开发工具，有社区免费版
 - [IDEA](https://www.jetbrains.com/zh-cn/idea/): Jetbrains推出的Java开发工具，有社区免费版
-- [Viual Studio Code](https://code.visualstudio.com/): 微软推出的代码编辑器，支持多种语言和各种插件
-- [Zed](https://zed.dev/): 新一代支持协调编码的代码编辑器
+- [Viual Studio Code](https://code.visualstudio.com/): 微软推出的全能代码编辑器，支持多种语言和各种插件
+- [Zed](https://zed.dev/): 新一代支持协作编码的代码编辑器
 
 
 ### Python
 - [Django](https://www.djangoproject.com/): Python全能Web开发框架
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/): Python微型Web开发框架
 - [FastAPI](https://fastapi.tiangolo.com/): Python高性能Web接口开发框架
-- [Sqlalchemy](https://www.sqlalchemy.org/): Python数据库操作ORM库
+- [SQLAlchemy](https://www.sqlalchemy.org/): Python数据库操作ORM库
 
 ### Java
 - [Spring Boot](https://spring.io/projects/spring-boot/)：易用的Java Web开发框架
