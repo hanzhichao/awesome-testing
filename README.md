@@ -32,10 +32,17 @@
 - [Idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS
 - [Adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具
 
+### 笔记及流程图
+- [Draw.io](https://www.drawio.com/): 开源免费的流程图绘制工具
+- [Obsidian](https://obsidian.md/): 免费的Markdown文档及知识管理工具，支持众多插件
+- [有道云笔记](https://note.youdao.com/): 网易免费的云笔记管理软件，支持Markdown及Word等格式
+- [印象笔记](https://www.yinxiang.com/): 功能丰富的云笔记软件，免费版支持2个端的同步
+
 ### 其他
 - [爱思助手](https://www.i4.cn/): iOS应用测试包安装工具
 - [Allpairs](https://github.com/joebmt/allpairs): 正交试验用例生成工具
 - [XMind2Excel](https://github.com/hanzhichao/xmind2excel): XMind测试用例转Excel用例工具
+
 
 ### 客户端专项
 
