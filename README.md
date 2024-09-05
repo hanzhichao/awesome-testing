@@ -162,7 +162,7 @@
 - [Maven](https://maven.apache.org/): Java项目构建及依赖管理框架
 
 #### Golang
-- [Testify](https://github.com/stretchr/testify)]: Golang三方具单元测试框架，包含测试套件、常用断言及Mock工具等
+- [Testify](https://github.com/stretchr/testify): Golang三方具单元测试框架，包含测试套件、常用断言及Mock工具等
 - [HttpRunner](https://github.com/httprunner/httprunner): 基于YAML测试文件的HTTP及UI测试库
 
 #### C++
@@ -280,5 +280,5 @@
 ## 参考
 
 - [jumper2014/awesome-testing](https://github.com/jumper2014/awesome-testing)
-- [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)]
+- [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
