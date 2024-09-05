@@ -23,10 +23,10 @@
 - [Charles](https://www.charlesproxy.com/): 多平台HTTP接口抓包工具，商业软件，支持免费试用
 - [Fiddler](https://www.telerik.com/fiddler): HTTP抓包调试工具，支持Mock响应，弱网模拟等
 - [Wireshark](https://www.wireshark.org/)：基于网卡的抓包工具，支持HTTP、TCP、UDP等各种协议的抓包，支持各种操作系统
+- [Whistle](https://github.com/avwo/whistle)：基于Nodejs实现的跨平台抓包工具，支持Http，WebSocket及TCP请求
 - [Mitmproxy](https://mitmproxy.org/): 开源HTTP抓包工具，支持使用代码编写抓包规则
-- [AnyProxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源多HTTP抓包工具
+- [AnyProxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源的基于Nodejs实现的HTTP抓包工具
 - [Tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令
-
 
 ### 命令行工具
 - [Idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS
@@ -52,9 +52,12 @@
 #### 稳定性测试
 
 - [Monkey](https://developer.android.com/tools?hl=zh-cn): Android SDK中内置的一款Android稳定性测试工具
-- [FastMonkey](https://github.com/zhangzhao4444/Fastmonkey): 张昭开发的一款基于Swift的iOS稳定性测试统计
-- [SwiftMonkey](https://github.com/zalando/SwiftMonkey): Zalando小组开发的一款iOS稳定性测试工具，以停止维护
+- [Fastbot_Android](https://github.com/bytedance/Fastbot_Android): 字节开源的Android稳定性测试工具
+- [Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS): : 字节开源的iOS稳定性测试工具
+- [FastMonkey](https://github.com/zhangzhao4444/Fastmonkey): 张昭开发的一款基于Swift的iOS稳定性测试统计已停止维护
+- [SwiftMonkey](https://github.com/zalando/SwiftMonkey): Zalando小组开发的一款iOS稳定性测试工具，已停止维护
 - [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): Facebook开发的iOS自动化测试驱动，可以配合Appium使用
+
 
 #### 弱网测试
 - [Fiddler](https://www.telerik.com/fiddler)：使用Fiddler抓包工具可以模拟弱网
