@@ -89,7 +89,7 @@
 - [SwaggerUI](https://swagger.io/tools/swagger-ui/): 与接口代码集成的接口测试插件，可以使用Web界面查看和调试开发好的接口
 - [MeterSphere](https://github.com/metersphere/metersphere): 一站式开源持续测试平台。  
 - [BlazeMeter](https://www.blazemeter.com/): 一站式持续测试平台
-- [ApiPost](https://apipost.cn/)]: 一款类似Postman的HTTP接口文档、设计、调试、自动化测试一体化协作工具
+- [ApiPost](https://apipost.cn/): 一款类似Postman的HTTP接口文档、设计、调试、自动化测试一体化协作工具
 - [ApiFox](https://apifox.com/):  另一款类似Postman的HTTP接口文档、设计、调试、自动化测试一体化协作工具
 
 ### 数据库客户端
