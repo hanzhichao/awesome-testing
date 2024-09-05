@@ -21,7 +21,7 @@
 ### 抓包工具
 - [Chrome Devtools](https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html): Chrome浏览器自带的开发组工具，Network面板可用于抓包
 - [Charles](https://www.charlesproxy.com/): 多平台HTTP接口抓包工具，商业软件，支持免费试用
-- [Fiddler](https://www.telerik.com/fiddler): Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序HTTP通讯的数据，可以用其检测网页和服务器的交互情况  
+- [Fiddler](https://www.telerik.com/fiddler): HTTP抓包调试工具，支持Mock响应，弱网模拟等
 - [Wireshark](https://www.wireshark.org/)：基于网卡的抓包工具，支持HTTP、TCP、UDP等各种协议的抓包，支持各种操作系统
 - [Mitmproxy](https://mitmproxy.org/): 开源HTTP抓包工具，支持使用代码编写抓包规则
 - [AnyProxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源多HTTP抓包工具
@@ -94,7 +94,7 @@
 
 ### 数据库客户端
 - [Navcat](https://www.navicat.com.cn/products): 商业软件，包含MySQL、PostgreSQL、MongoDB、Redis等各种客户端
-- [DBeaver](https://dbeaver.io/): 开源的数据库客户端，支持MySQL、PostgreSQL等
+- [DBeaver](https://dbeaver.io/): 开源的数据库客户端，支持MySQL、PostgresSQL等
 - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager): 另一款开源的Redis桌面客户端
 
 ### 服务端监控
@@ -109,7 +109,7 @@
 #### 数据库监控
 - [Dolphie](https://github.com/charles-001/dolphie): 开源MySQL数据库实时监控平台
 - [Anemometer](https://github.com/box/Anemometer): MySQL慢查询监控
-- [DBA Dash](ttps://github.com/trimble-oss/dba-dash): 开源SQL Server数据库监控
+- [DBA Dash](https://github.com/trimble-oss/dba-dash): 开源SQL Server数据库监控
 - [Swiple](https://github.com/Swiple/swiple): 开源的数据库监控和自动报警平台，支持MySQL，PostgresSQL等
 - [Redis Monitor](https://redis.com.cn/commands/monitor.html): Redis自带的运行监控命令
 
@@ -138,7 +138,7 @@
 
 - [GoReplay](https://goreplay.org/): 网络监控工具，可以做流量回放，压力测试，流量分析  
 - [TcpCopy](https://github.com/session-replay-tools/tcpcopy): 流量回放工具。  
-- [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力。
+- [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力
 
 ### 安全测试&渗透测试
 - [AppScan](https://cloud.appscan.com/): App安全测试工具
@@ -165,6 +165,7 @@
 - [OpenResty](https://openresty.org/cn/): 一款基于Nginx和Lua的高性能Web开发框架
 - [COLA](https://github.com/alibaba/COLA): 阿里巴巴推出的Java领域驱动Web开发框架
 - [Spring Boot](https://spring.io/projects/spring-boot): Java Web应用开发框架，常结合Mybatis操作数据库，可结合Dubbo + Zookeeper开发微服务
+- [Spring Cloud](https://spring.io/projects/spring-cloud: Spring整套微服务框架，包含Gatewary广告，Bug消息总线，注册中心Nacos、Consul服务治理，Sentinel熔断限流，OpenFeign接口框架等
 - [Gin](https://github.com/gin-gonic/gin): Golang Web服务开发框架，常结合Gorm操作数据库
 - [Go-zero](https://github.com/zeromicro/go-zero): Golang微服务开发框架
 - [ThinkPHP](https://www.thinkphp.cn/?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D): 轻量级PHP Web应用开发框架
@@ -357,14 +358,16 @@
 ### AI大模型测试
 (TODO)
 
-### 用例生成  
-- [Graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架  
-- [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具  
-
+### 算法测试
 
 ### Web3区块链测试
 - [Remix](https://remix.ethereum.org/)：以太坊只能合约开发IDE，支持合约编程，编译，调试及部署
 - [Hardhat](https://hardhat.org/): 基于Javascript或Typescript的以太坊应用测试框架
+
+### 用例生成  
+- [Graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架  
+- [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具  
+
 
 ### AI辅助测试
 - AI辅助用例生成 (TODO)
@@ -372,6 +375,9 @@
 
   
 ## 参考
+- [springcloud-learning](https://github.com/macrozheng/springcloud-learning)
+- [网易严选算法模型质量保障](https://www.6aiq.com/article/1675050710731)
+- [Python机器学习笔记：常用评估模型指标的用法](https://www.cnblogs.com/wj-1314/p/9400375.html)
 - [App专项测试](https://www.cnblogs.com/stormliu/p/16291488.html)
 - [jumper2014/awesome-testing](https://github.com/jumper2014/awesome-testing)
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)
