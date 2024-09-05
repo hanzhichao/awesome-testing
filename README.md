@@ -178,7 +178,7 @@
 ### Web页面性能测试
 - [Chrome LightHouse](https://developer.chrome.com/docs/lighthouse/overview?hl=zh-cn): Chrome浏览器自带的页面性能测试工具
 - [WebPageTest](https://github.com/WPO-Foundation/webpagetest):测量和分析网页性能工具,支持开发者下载源文件搭建私人的内部测试站点  
-- [PageSpeed Insights](https://developers.google.cn/speed/pagespeed/insights/):专注于改进网页性能的开发者工具,google出品。  
+- [PageSpeed Insights](https://developers.google.cn/speed/pagespeed/insights/):专注于改进网页性能的开发者工具,google出品 
 
 ### App性能测试/监控
 - [PerfDog](https://perfdog.qq.com/): App性能监控及分析工具，已转为收费软件
@@ -242,7 +242,7 @@
 - [HttpRunner](https://github.com/httprunner/httprunner): 基于YAML测试文件的HTTP及UI测试库
 
 #### C++
-- [GoogleTest](https://github.com/google/googletest): 一款C++单元测试框架
+- [GTest](https://github.com/google/googletest): Google一款C++单元测试框架
 - [Bazel](https://bazel.build/about?hl=zh-cn): 一款C++项目构建及测试框架
 
 #### 跨语言测试框架
@@ -352,13 +352,18 @@
 - [Graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架  
 - [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具  
 
+
+### Web3区块链测试
+- [Remix](https://remix.ethereum.org/)：以太坊只能合约开发IDE，支持合约编程，编译，调试及部署
+- [Hardhat](https://hardhat.org/): 基于Javascript或Typescript的以太坊应用测试框架
+
 ### AI辅助测试
 - AI辅助用例生成 (TODO)
 - AI辅助用例检查 (TODO)
 
   
 ## 参考
-
+- [App专项测试](https://www.cnblogs.com/stormliu/p/16291488.html)
 - [jumper2014/awesome-testing](https://github.com/jumper2014/awesome-testing)
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
