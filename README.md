@@ -165,7 +165,7 @@
 - [OpenResty](https://openresty.org/cn/): 一款基于Nginx和Lua的高性能Web开发框架
 - [COLA](https://github.com/alibaba/COLA): 阿里巴巴推出的Java领域驱动Web开发框架
 - [Spring Boot](https://spring.io/projects/spring-boot): Java Web应用开发框架，常结合Mybatis操作数据库，可结合Dubbo + Zookeeper开发微服务
-- [Spring Cloud](https://spring.io/projects/spring-cloud: Spring整套微服务框架，包含Gatewary广告，Bug消息总线，注册中心Nacos、Consul服务治理，Sentinel熔断限流，OpenFeign接口框架等
+- [Spring Cloud](https://spring.io/projects/spring-cloud]: Spring整套微服务框架，包含Gatewary广告，Bug消息总线，注册中心Nacos、Consul服务治理，Sentinel熔断限流，OpenFeign接口框架等
 - [Gin](https://github.com/gin-gonic/gin): Golang Web服务开发框架，常结合Gorm操作数据库
 - [Go-zero](https://github.com/zeromicro/go-zero): Golang微服务开发框架
 - [ThinkPHP](https://www.thinkphp.cn/?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D): 轻量级PHP Web应用开发框架
