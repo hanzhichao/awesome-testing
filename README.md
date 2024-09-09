@@ -104,7 +104,7 @@
 
 #### 综合监控工具
 - [Zabbix](https://github.com/zabbix/zabbix): 经典的开源的Linux服务实时监控工具
-- [Prometheus](https://prometheus.io/)]: 开源实时监控、时序数据库，监控数据采集，多和Grafana配合使用
+- [Prometheus](https://prometheus.io/): 开源实时监控、时序数据库，监控数据采集，多和Grafana配合使用
 - [Grafana](https://github.com/grafana/grafana): 开源监控表盘系统，多和Prometheus配合使用
 - [Nightingale-夜莺监控](https://github.com/ccfos/nightingale): 滴滴开源版监控系统，支持对接各种数据库及监控表盘系统
 - [Netdata](https://github.com/netdata/netdata): 开源高性能、云原生和本地监控工具
@@ -348,7 +348,11 @@
 ## 其他
 
 ### 车载测试
-(TODO)
+- [CANoe](https://www.vector.com/gb/en/products/products-a-z/software/canoe/): Vector推出的汽车HIL和SIL项目的开发和测试工具
+- [CANdelaStudio](https://www.vector.com/gb/en/products/products-a-z/software/candelastudio/): Vector推出的高效汽车数据诊断系统
+- [DiVa](https://www.vector.com/gb/en/products/products-a-z/software/canoediva/): Vector推出的汽车电子控制单元，自动化验证和诊断工具
+- [vTESTstudio](https://www.vector.com/at/en/products/products-a-z/software/vteststudio/): Vector推出的可视化汽车嵌入式系统自动化测试工具
+- [Python-CAN](https://python-can.readthedocs.io/en/stable/#): CAN协议硬件Python操作库
 
 ### 搜索测试
 (TODO)
@@ -385,3 +389,5 @@
 - [jumper2014/awesome-testing](https://github.com/jumper2014/awesome-testing)
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
+- [车载测试介绍](https://www.cnblogs.com/zxt518/p/17463906.html)
+- [CAN总线简介](https://theembeddedsystem.readthedocs.io/en/latest/c8_can/intro_can.html)
