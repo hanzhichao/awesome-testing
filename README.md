@@ -8,9 +8,7 @@
 - [XShell](https://www.xshell.com/zh/free-for-home-school/): Windows平台远程Linux服务器连接及操作工具，商业软件，支持免费试用，有功能限制
 
 ### 项目/测试管理
-- [Jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理
-  - [Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud): Jira用例管理插件， 支持BDD，收费插件，支持试用
-  - [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud): Jira用例管理插件，收费插件，支持试用
+- [Jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理, 测试用例管理可以通过插件[Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud)或[Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)实现
 - [Tapd](https://m.tapd.cn/): 腾讯出品的项目管理平台，支持需求、迭代、任务、缺陷、测试用例管理等
 - [PingCode](https://pingcode.com/): 新一代研发管理工具
 - [TestLink](http://www.testlink.org/): 开源测试用例管理，测试计划，测试执行，测试报告。  
@@ -26,11 +24,11 @@
 - [Whistle](https://github.com/avwo/whistle)：基于Nodejs实现的跨平台抓包工具，支持Http，WebSocket及TCP请求
 - [Mitmproxy](https://mitmproxy.org/): 开源HTTP抓包工具，支持使用代码编写抓包规则
 - [AnyProxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源的基于Nodejs实现的HTTP抓包工具
-- [Tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令
+- [tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令
 
 ### 命令行工具
-- [Idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS
-- [Adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具
+- [idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS
+- [adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具
 
 ### 笔记及流程图
 - [Draw.io](https://www.drawio.com/): 开源免费的流程图绘制工具
@@ -40,7 +38,7 @@
 
 ### 其他
 - [爱思助手](https://www.i4.cn/): iOS应用测试包安装工具
-- [Allpairs](https://github.com/joebmt/allpairs): 正交试验用例生成工具
+- [allpairs](https://github.com/joebmt/allpairs): 正交试验用例生成工具
 - [XMind2Excel](https://github.com/hanzhichao/xmind2excel): XMind测试用例转Excel用例工具
 
 
@@ -219,28 +217,12 @@
 
 #### Python
 - [Pytest](https://docs.pytest.org): 最强大的Python测试框架，可定制性高，插件丰富
-  - [Pytest-Selenium](https://pytest-selenium.readthedocs.io/en/latest/user_guide.html#configuration-files): Pytest调用Selenium测试插件
-  - [Playwright-Pytest](https://github.com/microsoft/playwright-pytest): Pytest配合Playwright测试插件
-  - [Pytest-Level](https://pypi.org/project/pytest-level/): 为Pytest用例增加优先级标记及筛选方法
-  - [Pytest-Html](https://github.com/pytest-dev/pytest-html): Pytest生成HTML报告插件
-  - [Allure-Pytest](https://docs.qameta.io/allure/#_pytest) Pytest框架Allure报告插件，用于生成美观的测试报告
-  - [Pytest-base-url](https://pypi.org/project/pytest-base-url/) Pytest插件，为用例设置基础URL（方便切换环境）
-  - [Pytest-timeout](https://pypi.org/project/pytest-timeout/) Pytest插件，为用例设置超时时间，防止卡死
-  - [Pytest-rerunfailures](https://pypi.org/project/pytest-rerunfailures/) Pytest插件，在用例运行失败后自动重试
-  - [Pytest-xdist](https://pypi.org/project/pytest-xdist/) Pytest插件，启动多个进程执行用例
 - [Unittest](https://docs.python.org/3/library/unittest.html): Python官方内置的测试框架
-  - [Nose](https://nose.readthedocs.io/en/latest/): 更易用的Unittest测试框架扩展框架
-  - [Nose2](https://nose.readthedocs.io/en/latest/): 更易用的Unittest测试框架扩展框架
-  - [Unitplus](https://github.com/hanzhichao/unitplus): Unittest测试框架扩展，为用例添加优先级、归属人、tags等多种属性及筛选方法
-  - [HTMLReport](https://pypi.org/project/HTMLReport/): Unittest生成HTML测试报告
-- [Robot Framework](https://robotframework.org/): 基于关键字驱动的测试框架，开源，易用  
-  - [Robot Framework RequestsLibrary](https://docs.robotframework.org/docs/different_libraries/requests): Robot Framework进行HTTP接口测试
-  - [Robot Framework Selenium2Library](https://robotframework.org/Selenium2Library/Selenium2Library.html): Robot Framework调用Selenium测试WebUI
-  - [Robot Framework AppiumLibrary](https://docs.robotframework.org/docs/different_libraries/appium): Robot Framework调用Appium测试AppUI
+- [Nose2](https://nose.readthedocs.io/en/latest/): 更易用的Unittest测试框架扩展框架
+- [Robot Framework](https://robotframework.org/): 基于关键字驱动的测试框架，开源，易用
 - [Behave](https://github.com/behave/behave): 基于Python的BDD自动化测试框架
-  - [Allure-Behave](https://pypi.org/project/allure-behave/) : Behave框架Allure报告插件
 - [QTAF](https://github.com/Tencent/QTAF): 腾讯推出的测试框架，类似Unittest
-- 
+- [Unitplus](https://github.com/hanzhichao/unitplus): Unittest测试框架扩展，为用例添加优先级、归属人、tags等多种属性及筛选方法
 
 #### Java
 - [JUnit](https://junit.org): 最著名的xUnit类的单元测试框架，但是不仅仅可以做单元测试。  
@@ -259,20 +241,9 @@
 - [Bazel](https://bazel.build/about?hl=zh-cn): 一款C++项目构建及测试框架
 
 #### 跨语言测试框架
-
-- [Cucumber](https://github.com/cucumber): BDD测试框架
-	- [Cucumber-Ruby](https://github.com/cucumber/cucumber-ruby)： Ruby语言BDD测试框架
-	- [Cucumber-JVM](https://github.com/cucumber/cucumber-jvm)：Java语言BDD测试框架
-	- [Cucumber-JS](https://github.com/cucumber/cucumber-js): JavaScript语言BDD测试框架
-	- [GoDog](https://github.com/cucumber/godog): Golang语言BDD测试框架
-	- [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) : C#语言BDD测试框架
-	- [Behave](https://github.com/behave/behave) : Python语言BDD测试框架
-	- [Cucumber Rust](https://github.com/cucumber-rs/cucumber)：Rust语言BDD测试框架
-	- [Behat](https://docs.behat.org/en/latest/) : PHP语言BDD测试框架
-
+- [Cucumber](https://github.com/cucumber): BDD测试框架，拥有Ruby,Java,Javascript,Python,Golang等多种语言的实现
 - [Allure](http://allure.qatools.ru/): 测试报告框架，支持Pytest, Cucumber等
-  - [Allure-Pytest](https://docs.qameta.io/allure/#_pytest) Pytest框架Allure报告插件，用于生成美观的测试报告
-  - [Allure-Behave](https://pypi.org/project/allure-behave/) : Behave框架Allure报告插件
+
 
 #### 其他
 - [Gauge](https://gauge.org/index.html): 轻量级的跨平台测试自动化工具，可以以业务语言编写测试用例。  
@@ -288,7 +259,7 @@
 
 #### Android & iOS自动化
 - [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
-- [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。  
+- [Macaca](https://macacajs.github.io/zh/): 阿里巴巴开源的面向多端的自动化测试工具
 - [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和**游戏**测试，网易开源。  
 - [SoloPi](https://github.com/alipay/SoloPi): Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。  
 - [Uiautomator2](https://github.com/openatx/uiautomator2): Python版Uiautomator封装，Android设备测试框架
@@ -299,10 +270,9 @@
 - [Flutter测试](https://doc.flutterchina.club/testing/): Flutter中文文档-测试 Flutter App
 
 #### 鸿蒙App自动化
-(TODO)
 
 #### 微信小程序自动化
-- [MiniTest](https://minitest.weixin.qq.com/#/): 属于小程序和小游戏的自动化测试框架
+- [MiniTest](https://minitest.weixin.qq.com/#/): 微信小程序和小游戏的自动化测试框架，需要萧承煦源码
 
 ### 桌面客户端自动化
 - [Pyautogui](https://pyautogui.readthedocs.io/en/latest/): 基于截图识别等桌面自动化框架
@@ -338,7 +308,7 @@
 - [Gorm](https://github.com/go-gorm/gorm): Golang数据库操作ORM框架
 
 ### 前端
-- [Vue](https://cn.vuejs.org/): 渐进式Web前端开发框架
+- [Vue](https://cn.vuejs.org/): 渐进式Web前端开发框架, 有Vue2和Vue3两个版本
 - [Element UI](https://element.eleme.cn/#/zh-CN): 饿了么推出的Web前端组件库，支持Vue
 - [React](https://react.dev/): Meta推出的前端开发框架
 - [AntDesign](https://ant-design.antgroup.com/components/overview-cn)：阿里推出的Web前端组件库，支持React
@@ -352,18 +322,20 @@
 - [CANdelaStudio](https://www.vector.com/gb/en/products/products-a-z/software/candelastudio/): Vector推出的高效汽车数据诊断系统
 - [DiVa](https://www.vector.com/gb/en/products/products-a-z/software/canoediva/): Vector推出的汽车电子控制单元，自动化验证和诊断工具
 - [vTESTstudio](https://www.vector.com/at/en/products/products-a-z/software/vteststudio/): Vector推出的可视化汽车嵌入式系统自动化测试工具
-- [Python-CAN](https://python-can.readthedocs.io/en/stable/#): CAN协议硬件Python操作库
+- [python-can](https://python-can.readthedocs.io/en/stable/#): CAN协议硬件Python操作库
 
 ### 搜索测试
-(TODO)
+- 评价指标：准确率、精确率、召回率、MAP(Mean Average Precision-平均精度)和NDCG(Normalized Discounted Cumulative Gain-归一化折合增益值)、无结果率、MRR(平均倒数排名)、点击率等
+- 主要测试方法：A/B Testing，基于专家(主管)评价，或基于点击率统计评价
 
 ### 大数据测试
 - [Apache Hadoop](https://hadoop.apache.org/): 开源大数据计算框架
 - [Apache Hive](https://hive.apache.org/): 开源大数据分布式容错数据仓库系统
 - [Apache Spark](https://spark.apache.org/): 开源大数据实时计算统一分析引擎
+- [Apache Flink](https://flink.apache.org/): 开源大数据流数据处理框架
 
 ### AI大模型测试
-(TODO)
+
 
 ### 算法测试
 
@@ -377,8 +349,8 @@
 
 
 ### AI辅助测试
-- AI辅助用例生成 (TODO)
-- AI辅助用例检查 (TODO)
+- AI辅助用例生成
+- AI辅助用例检查
 
   
 ## 参考
@@ -391,3 +363,4 @@
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 - [车载测试介绍](https://www.cnblogs.com/zxt518/p/17463906.html)
 - [CAN总线简介](https://theembeddedsystem.readthedocs.io/en/latest/c8_can/intro_can.html)
+- [怎样量化评价搜索引擎的结果质量](https://www.cnblogs.com/scnucs/archive/2012/10/10/2718503.html)
