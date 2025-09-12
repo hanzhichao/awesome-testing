@@ -341,7 +341,12 @@
 
 ### Web3区块链测试
 - [Remix](https://remix.ethereum.org/)：以太坊只能合约开发IDE，支持合约编程，编译，调试及部署
-- [Hardhat](https://hardhat.org/): 基于Javascript或Typescript的以太坊应用测试框架
+- [Hardhat](https://hardhat.org/): 基于JavaScript或Typescript的以太坊应用测试框架
+- [Wake](https://ackee.xyz/wake/docs/latest/): Wake是一个基于 Python 的 Solidity 开发和测试框架，内置漏洞检测器。
+- [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html): Ape 框架是一款易于使用的 Web3 开发工具。用户可以在一个命令行会话中编译、测试并与智能合约交互。凭借我们的模块化插件系统，Ape 支持多种合约语言和链。
+- [Brownie](https://github.com/eth-brownie/brownie): 针对以太坊虚拟机的基于 Python 的智能合约开发和测试框架。Python 版 Hardhat，Pytest 语法。
+- [Foundry](https://getfoundry.sh/introduction/getting-started/)：Foundry是一个基于Solidity语言的智能合约开发工具链。可以管理依赖项、编译项目、运行测试、部署，并允许从命令行[forge命令](https://getfoundry.sh/forge/reference/forge/)和通过 Solidity 脚本与链进行交互。
+- [Truffle](https://archive.trufflesuite.com/)：Truffle是一个基于Solidity,JavaScipt,TypeScript的全面只能合约开发工具套件。
 
 ### 用例生成  
 - [Graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架  
