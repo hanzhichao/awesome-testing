@@ -4,57 +4,57 @@
 ## 功能测试  
 
 ### 测试工具
-- [XMind](https://xmind.cn/): 思维导图工具，常用来梳理测试点，商业软件，支持免费试用，有功能限制
-- [XShell](https://www.xshell.com/zh/free-for-home-school/): Windows平台远程Linux服务器连接及操作工具，商业软件，支持免费试用，有功能限制
+- [XMind](https://xmind.cn/): 思维导图工具，常用来梳理测试点，商业软件，支持免费试用，有功能限制。
+- [XShell](https://www.xshell.com/zh/free-for-home-school/): Windows平台远程Linux服务器连接及操作工具，商业软件，支持免费试用，有功能限制。
 
 ### 项目/测试管理
-- [Jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理, 测试用例管理可以通过插件[Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud)或[Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)实现
-- [Tapd](https://m.tapd.cn/): 腾讯出品的项目管理平台，支持需求、迭代、任务、缺陷、测试用例管理等
-- [PingCode](https://pingcode.com/): 新一代研发管理工具
+- [Jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理, 测试用例管理可以通过插件[Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud)或[Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)实现。
+- [Tapd](https://m.tapd.cn/): 腾讯出品的项目管理平台，支持需求、迭代、任务、缺陷、测试用例管理等。
+- [PingCode](https://pingcode.com/): 新一代研发管理工具。
 - [TestLink](http://www.testlink.org/): 开源测试用例管理，测试计划，测试执行，测试报告。  
 - [禅道](https://www.zentao.net/): ，国产开源工具，记录bug，用例管理，项目管理。  
-- [Redmine](http://www.redmine.org/): 用Ruby开发的基于web的项目管理软件  
+- [Redmine](http://www.redmine.org/): 用Ruby开发的基于web的项目管理软件  。
 
 
 ### 抓包工具
-- [Chrome Devtools](https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html): Chrome浏览器自带的开发组工具，Network面板可用于抓包
-- [Charles](https://www.charlesproxy.com/): 多平台HTTP接口抓包工具，商业软件，支持免费试用
-- [Fiddler](https://www.telerik.com/fiddler): HTTP抓包调试工具，支持Mock响应，弱网模拟等
-- [Wireshark](https://www.wireshark.org/)：基于网卡的抓包工具，支持HTTP、TCP、UDP等各种协议的抓包，支持各种操作系统
-- [Whistle](https://github.com/avwo/whistle)：基于Nodejs实现的跨平台抓包工具，支持Http，WebSocket及TCP请求
-- [Mitmproxy](https://mitmproxy.org/): 开源HTTP抓包工具，支持使用代码编写抓包规则
-- [AnyProxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源的基于Nodejs实现的HTTP抓包工具
-- [tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令
+- [Chrome Devtools](https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html): Chrome浏览器自带的开发组工具，Network面板可用于抓包。
+- [Charles](https://www.charlesproxy.com/): 多平台HTTP接口抓包工具，商业软件，支持免费试用。
+- [Fiddler](https://www.telerik.com/fiddler): HTTP抓包调试工具，支持Mock响应，弱网模拟等。
+- [Wireshark](https://www.wireshark.org/)：基于网卡的抓包工具，支持HTTP、TCP、UDP等各种协议的抓包，支持各种操作系统。
+- [Whistle](https://github.com/avwo/whistle)：基于Nodejs实现的跨平台抓包工具，支持Http，WebSocket及TCP请求。
+- [Mitmproxy](https://mitmproxy.org/): 开源HTTP抓包工具，支持使用代码编写抓包规则。
+- [AnyProxy](https://github.com/alibaba/anyproxy): 阿里巴巴开源的基于Nodejs实现的HTTP抓包工具。
+- [tcpdump](https://linux.die.net/man/8/tcpdump)：Linux服务端抓包命令。
 
 ### 命令行工具
-- [idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS
-- [adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具
+- [idb](https://github.com/facebook/idb): iOS调试命令行工具，仅支持macOS。
+- [adb](https://developer.android.com/tools/adb?hl=zh-cn):  Android SDK中内置的Android调试工具。
 
 ### 笔记及流程图
-- [Draw.io](https://www.drawio.com/): 开源免费的流程图绘制工具
-- [Obsidian](https://obsidian.md/): 免费的Markdown文档及知识管理工具，支持众多插件
-- [有道云笔记](https://note.youdao.com/): 网易免费的云笔记管理软件，支持Markdown及Word等格式
-- [印象笔记](https://www.yinxiang.com/): 功能丰富的云笔记软件，免费版支持2个端的同步
+- [Draw.io](https://www.drawio.com/): 开源免费的流程图绘制工具。
+- [Obsidian](https://obsidian.md/): 免费的Markdown文档及知识管理工具，支持众多插件。
+- [有道云笔记](https://note.youdao.com/): 网易免费的云笔记管理软件，支持Markdown及Word等格式。
+- [印象笔记](https://www.yinxiang.com/): 功能丰富的云笔记软件，免费版支持2个端的同步。
 
 ### 其他
-- [爱思助手](https://www.i4.cn/): iOS应用测试包安装工具
-- [allpairs](https://github.com/joebmt/allpairs): 正交试验用例生成工具
-- [XMind2Excel](https://github.com/hanzhichao/xmind2excel): XMind测试用例转Excel用例工具
+- [爱思助手](https://www.i4.cn/): iOS应用测试包安装工具。
+- [allpairs](https://github.com/joebmt/allpairs): 正交试验用例生成工具。
+- [XMind2Excel](https://github.com/hanzhichao/xmind2excel): XMind测试用例转Excel用例工具。
 
 
 ### 客户端专项
 
 ### App性能测试
-- [PerfDog](https://perfdog.qq.com/): App性能监控及分析工具，已转为收费软件
+- [PerfDog](https://perfdog.qq.com/): App性能监控及分析工具，已转为收费软件。
 
 #### 稳定性测试
 
-- [Monkey](https://developer.android.com/tools?hl=zh-cn): Android SDK中内置的一款Android稳定性测试工具
-- [Fastbot_Android](https://github.com/bytedance/Fastbot_Android): 字节开源的Android稳定性测试工具
-- [Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS): : 字节开源的iOS稳定性测试工具
-- [FastMonkey](https://github.com/zhangzhao4444/Fastmonkey): 张昭开发的一款基于Swift的iOS稳定性测试统计已停止维护
-- [SwiftMonkey](https://github.com/zalando/SwiftMonkey): Zalando小组开发的一款iOS稳定性测试工具，已停止维护
-- [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): Facebook开发的iOS自动化测试驱动，可以配合Appium使用
+- [Monkey](https://developer.android.com/tools?hl=zh-cn): Android SDK中内置的一款Android稳定性测试工具。
+- [Fastbot_Android](https://github.com/bytedance/Fastbot_Android): 字节开源的Android稳定性测试工具。
+- [Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS): : 字节开源的iOS稳定性测试工具。
+- [FastMonkey](https://github.com/zhangzhao4444/Fastmonkey): 张昭开发的一款基于Swift的iOS稳定性测试统计已停止维护。
+- [SwiftMonkey](https://github.com/zalando/SwiftMonkey): Zalando小组开发的一款iOS稳定性测试工具，已停止维护。
+- [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): Facebook开发的iOS自动化测试驱动，可以配合Appium使用。
 
 
 #### 弱网测试
@@ -81,6 +81,7 @@
 - [JMeter](https://jmeter.apache.org/): 工业级的压力测试工具，也可以做接口测试  
 - [SoapUI](https://www.soapui.org/): 基于SOAP协议的WebService接口测试工具
 - [SwitchHosts](https://switchhosts.vercel.app/zh): Hosts配置及切换工具
+- [Locust](https://locust.io/): 一个开源负载测试工具。使用Python代码定义用户行为，并让数百万同时用户涌入系统。
 
 
 ### 接口管理及测试
@@ -137,15 +138,15 @@
 
 ### 流量回放
 
-- [GoReplay](https://goreplay.org/): 网络监控工具，可以做流量回放，压力测试，流量分析  
+- [GoReplay](https://goreplay.org/): 网络监控工具，可以做流量回放，压力测试，流量分析。
 - [TcpCopy](https://github.com/session-replay-tools/tcpcopy): 流量回放工具。  
-- [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力
+- [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力。
 
 ### 安全测试&渗透测试
-- [AppScan](https://cloud.appscan.com/): App安全测试工具
-- [Metasploit](https://www.metasploit.com/): 广泛使用的渗透测试自动化框架
-- [BurpSuite](https://portswigger.net/burp): 渗透测试工具套件
-- [Kali Linux](https://www.kali.org/): 包含上百种渗透测试，如漏洞分析，Web应用程序，信息收集，无线攻击，逆向工程，密码破解，取证工具，Web应用程序，欺骗，嗅探相关工具的开源Linux系统
+- [AppScan](https://cloud.appscan.com/): App安全测试工具。
+- [Metasploit](https://www.metasploit.com/): 广泛使用的渗透测试自动化框架。
+- [BurpSuite](https://portswigger.net/burp): 渗透测试工具套件。
+- [Kali Linux](https://www.kali.org/): 包含上百种渗透测试，如漏洞分析，Web应用程序，信息收集，无线攻击，逆向工程，密码破解，取证工具，Web应用程序，欺骗，嗅探相关工具的开源Linux系统。
 
 ### 混沌测试
 - [ChaosBlade](https://github.com/chaosblade-io/chaosblade): 阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具。  
@@ -154,26 +155,26 @@
 ## 白盒测试
   
 ### 代码质量 &代码审查
-- [SonarQube](https://www.sonarqube.org/): 开源代码质量和安全的扫描工具，支持Python，Java等多种语言项目
-- [Gerrit](https://www.gerritcodereview.com/): 配合Git的代码审查工具
+- [SonarQube](https://www.sonarqube.org/): 开源代码质量和安全的扫描工具，支持Python，Java等多种语言项目。
+- [Gerrit](https://www.gerritcodereview.com/): 配合Git的代码审查工具。
 
 ### 代码覆盖率
-- [Goc](https://github.com/qiniu/goc/tree/master): 开源的Golang项目代码覆盖率工具
-- [Jacoco](https://www.eclemma.org/jacoco/): 开源的Java项目代码覆盖率工具 
-- [CodePulse](http://code-pulse.com/): 实时代码覆盖率工具 
+- [Goc](https://github.com/qiniu/goc/tree/master): 开源的Golang项目代码覆盖率工具。
+- [Jacoco](https://www.eclemma.org/jacoco/): 开源的Java项目代码覆盖率工具。
+- [CodePulse](http://code-pulse.com/): 实时代码覆盖率工具。
 
 ### 常见开发框架
-- [OpenResty](https://openresty.org/cn/): 一款基于Nginx和Lua的高性能Web开发框架
-- [COLA](https://github.com/alibaba/COLA): 阿里巴巴推出的Java领域驱动Web开发框架
-- [Spring Boot](https://spring.io/projects/spring-boot): Java Web应用开发框架，常结合Mybatis操作数据库，可结合Dubbo + Zookeeper开发微服务
-- [Spring Cloud](https://spring.io/projects/spring-cloud]: Spring整套微服务框架，包含Gatewary广告，Bug消息总线，注册中心Nacos、Consul服务治理，Sentinel熔断限流，OpenFeign接口框架等
-- [Gin](https://github.com/gin-gonic/gin): Golang Web服务开发框架，常结合Gorm操作数据库
-- [Go-zero](https://github.com/zeromicro/go-zero): Golang微服务开发框架
-- [ThinkPHP](https://www.thinkphp.cn/?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D): 轻量级PHP Web应用开发框架
-- [Koa](https://koajs.com/): Nodejs Web应用开发框架
-- [Cocos](https://www.cocos.com/): 2D/3D游戏开发框架
-- [CEF](https://github.com/chromiumembedded/cef)：基于Chromium浏览器的桌面应用开发框架
-- [Electron](https://www.electronjs.org/): 基于前Javascript, HTML及CSS的桌面应用开发框架
+- [OpenResty](https://openresty.org/cn/): 一款基于Nginx和Lua的高性能Web开发框架。
+- [COLA](https://github.com/alibaba/COLA): 阿里巴巴推出的Java领域驱动Web开发框架。
+- [Spring Boot](https://spring.io/projects/spring-boot): Java Web应用开发框架，常结合Mybatis操作数据库，可结合Dubbo + Zookeeper开发微服务。
+- [Spring Cloud](https://spring.io/projects/spring-cloud): Spring整套微服务框架，包含Gatewary广告，Bug消息总线，注册中心Nacos、Consul服务治理，Sentinel熔断限流，OpenFeign接口框架等。
+- [Gin](https://github.com/gin-gonic/gin): Golang Web服务开发框架，常结合Gorm操作数据库。
+- [Go-zero](https://github.com/zeromicro/go-zero): Golang微服务开发框架。
+- [ThinkPHP](https://www.thinkphp.cn/?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D): 轻量级PHP Web应用开发框架。
+- [Koa](https://koajs.com/): Nodejs Web应用开发框架。
+- [Cocos](https://www.cocos.com/): 2D/3D游戏开发框架。
+- [CEF](https://github.com/chromiumembedded/cef)：基于Chromium浏览器的桌面应用开发框架。
+- [Electron](https://www.electronjs.org/): 基于前Javascript, HTML及CSS的桌面应用开发框架。
 
 ## 性能测试
 
@@ -192,23 +193,23 @@
 - [PageSpeed Insights](https://developers.google.cn/speed/pagespeed/insights/):专注于改进网页性能的开发者工具,google出品 
 
 ### App性能测试/监控
-- [PerfDog](https://perfdog.qq.com/): App性能监控及分析工具，已转为收费软件
+- [PerfDog](https://perfdog.qq.com/): App性能监控及分析工具，已转为收费软件。
 
 
 ### PC应用性能
-- [PresentMon](https://github.com/GameTechDev/PresentMon): Windows平台图形应用(游戏)性能测试工具
+- [PresentMon](https://github.com/GameTechDev/PresentMon): Windows平台图形应用(游戏)性能测试工具。
 
 ### 其他性能测试
 #### 数据库性能测试
-- [Sysbench](https://github.com/akopytov/sysbench): 多线程MySQL数据库测试命令行工具
-- [Pgbench](https://www.postgresql.org/docs/current/pgbench.html): PostgresSQL数据库性能测试工具
+- [Sysbench](https://github.com/akopytov/sysbench): 多线程MySQL数据库测试命令行工具。
+- [Pgbench](https://www.postgresql.org/docs/current/pgbench.html): PostgresSQL数据库性能测试工具。
 
 #### 存储性能测试
-- [Vdbench](https://www.oracle.com/downloads/server-storage/vdbench-downloads.html): 可以产生大量的IO读写，以测试存储性能
-- [MemTester](https://github.com/jnavila/memtester): 内存压力测试工具
+- [Vdbench](https://www.oracle.com/downloads/server-storage/vdbench-downloads.html): 可以产生大量的IO读写，以测试存储性能。
+- [MemTester](https://github.com/jnavila/memtester): 内存压力测试工具。
 
 ### 网络性能测试
-- [IPerf](https://github.com/esnet/iperf): 主机TCP, UDP及SCTP网卡带宽(性能)测试工具
+- [IPerf](https://github.com/esnet/iperf): 主机TCP, UDP及SCTP网卡带宽(性能)测试工具。
 
 
 ## 自动化测试
@@ -227,22 +228,22 @@
 #### Java
 - [JUnit](https://junit.org): 最著名的xUnit类的单元测试框架，但是不仅仅可以做单元测试。  
 - [TestNG](https://testng.org/): 更强大的Java测试框架，灵活可扩展，支持注解和多线程。  
-- [Spock](https://github.com/spockframework/spock): Java及Groovy应用的BDD测试框架
-- [Cucumber-JVM](https://github.com/cucumber/cucumber-jvm): Java版Cucumber，一款BDD测试框架
-- [Rest-assured](https://github.com/rest-assured/rest-assured): Java一款易用的的测试HTTP接口测试框架
-- [Maven](https://maven.apache.org/): Java项目构建及依赖管理框架
+- [Spock](https://github.com/spockframework/spock): Java及Groovy应用的BDD测试框架。
+- [Cucumber-JVM](https://github.com/cucumber/cucumber-jvm): Java版Cucumber，一款BDD测试框架。
+- [Rest-assured](https://github.com/rest-assured/rest-assured): Java一款易用的的测试HTTP接口测试框架。
+- [Maven](https://maven.apache.org/): Java项目构建及依赖管理框架。
 
 #### Golang
-- [Testify](https://github.com/stretchr/testify): Golang三方具单元测试框架，包含测试套件、常用断言及Mock工具等
-- [HttpRunner](https://github.com/httprunner/httprunner): 基于YAML测试文件的HTTP及UI测试库
+- [Testify](https://github.com/stretchr/testify): Golang三方具单元测试框架，包含测试套件、常用断言及Mock工具等。
+- [HttpRunner](https://github.com/httprunner/httprunner): 基于YAML测试文件的HTTP及UI测试库。
 
 #### C++
-- [GTest](https://github.com/google/googletest): Google一款C++单元测试框架
-- [Bazel](https://bazel.build/about?hl=zh-cn): 一款C++项目构建及测试框架
+- [GTest](https://github.com/google/googletest): Google一款C++单元测试框架。
+- [Bazel](https://bazel.build/about?hl=zh-cn): 一款C++项目构建及测试框架。
 
 #### 跨语言测试框架
-- [Cucumber](https://github.com/cucumber): BDD测试框架，拥有Ruby,Java,Javascript,Python,Golang等多种语言的实现
-- [Allure](http://allure.qatools.ru/): 测试报告框架，支持Pytest, Cucumber等
+- [Cucumber](https://github.com/cucumber): BDD测试框架，拥有Ruby,Java,Javascript,Python,Golang等多种语言的实现。
+- [Allure](http://allure.qatools.ru/): 测试报告框架，支持Pytest, Cucumber等。
 
 
 #### 其他
@@ -251,19 +252,19 @@
 ### WebUI自动化
 
 - [Selenium](https://www.seleniumhq.org/): 业界最有影响力的Web自动化测试工具。 
-- [Cypress](https://www.cypress.io/): 自带浏览器，基于Javascript的Web自动化测试工具，较Selenium更快
-- [Playwright](https://github.com/microsoft/playwright-python) ：微软开源的一款Python异步Web测试库，支持多种浏览器，较Selenium更快
-- [Puppeteer](https://pptr.dev/): 基于Javascript的的异步Web测试库，较Selenium更快
+- [Cypress](https://www.cypress.io/): 自带浏览器，基于Javascript的Web自动化测试工具，较Selenium更快。
+- [Playwright](https://github.com/microsoft/playwright-python) ：微软开源的一款Python异步Web测试库，支持多种浏览器，较Selenium更快。
+- [Puppeteer](https://pptr.dev/): 基于Javascript的的异步Web测试库，较Selenium更快。
 
 ### AppUI自动化
 
 #### Android & iOS自动化
-- [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
-- [Macaca](https://macacajs.github.io/zh/): 阿里巴巴开源的面向多端的自动化测试工具
+- [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具。
+- [Macaca](https://macacajs.github.io/zh/): 阿里巴巴开源的面向多端的自动化测试工具。
 - [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和**游戏**测试，网易开源。  
 - [SoloPi](https://github.com/alipay/SoloPi): Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。  
-- [Uiautomator2](https://github.com/openatx/uiautomator2): Python版Uiautomator封装，Android设备测试框架
-- [ATX](https://github.com/NetEaseGame/ATX): 网易推出的AppUI测试框架，支持Android和iOS
+- [Uiautomator2](https://github.com/openatx/uiautomator2): Python版Uiautomator封装，Android设备测试框架。
+- [ATX](https://github.com/NetEaseGame/ATX): 网易推出的AppUI测试框架，支持Android和iOS。
 - [STF](https://openstf.io/): STF(Smartphone Test Farm) 移动设备管理工具，通过浏览器控制和管理移动设备。 
 
 #### Flutter App自动化
@@ -272,67 +273,67 @@
 #### 鸿蒙App自动化
 
 #### 微信小程序自动化
-- [MiniTest](https://minitest.weixin.qq.com/#/): 微信小程序和小游戏的自动化测试框架，需要萧承煦源码
+- [MiniTest](https://minitest.weixin.qq.com/#/): 微信小程序和小游戏的自动化测试框架，需要萧承煦源码。
 
 ### 桌面客户端自动化
-- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/): 基于截图识别等桌面自动化框架
+- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/): 基于截图识别等桌面自动化框架。
 - [Atalon](https://www.katalon.com/): API，Web，移动端的自动化测试工具。  
 - [Ranorex](https://www.ranorex.com/): 商业GUI自动化测试工具，支持桌面，Web，移动端。  
 - [AutoIT](https://www.autoitscript.com/site/): 用类Basic脚本编写Windows桌面GUI自动化的工具。
-- [QTP/UFT](https://en.wikipedia.org/wiki/HP_QuickTest_Professional) 商业GUI桌面，Web的自动化测试工具 
+- [QTP/UFT](https://en.wikipedia.org/wiki/HP_QuickTest_Professional) 商业GUI桌面，Web的自动化测试工具 。
 
 ## 持续集成
-- [Jenkins](https://www.jenkins.io/): 使用广泛的开源持续集成网站，拥有丰富的插件，支持应用定时打包、构建、自动化测试等
-- [GitLab CI](https://docs.gitlab.com/ee/ci/): 开源GitLab平台的基于YAML配置的应用持续集成语法
+- [Jenkins](https://www.jenkins.io/): 使用广泛的开源持续集成网站，拥有丰富的插件，支持应用定时打包、构建、自动化测试等。
+- [GitLab CI](https://docs.gitlab.com/ee/ci/): 开源GitLab平台的基于YAML配置的应用持续集成语法。
 
 ## 测试开发
 
 ### IDE&编辑器
-- [PyCharm](https://www.jetbrains.com/pycharm/): Jetbrains推出的Python开发工具，有社区免费版
-- [IDEA](https://www.jetbrains.com/zh-cn/idea/): Jetbrains推出的Java开发工具，有社区免费版
-- [Visual Studio Code](https://code.visualstudio.com/): 微软推出的全能代码编辑器，支持多种语言和各种插件
-- [Zed](https://zed.dev/): 新一代支持协作编码的代码编辑器
+- [PyCharm](https://www.jetbrains.com/pycharm/): Jetbrains推出的Python开发工具，有社区免费版。
+- [IDEA](https://www.jetbrains.com/zh-cn/idea/): Jetbrains推出的Java开发工具，有社区免费版。
+- [Visual Studio Code](https://code.visualstudio.com/): 微软推出的全能代码编辑器，支持多种语言和各种插件。
+- [Zed](https://zed.dev/): 新一代支持协作编码的代码编辑器。
 
 ### Python
-- [Django](https://www.djangoproject.com/): Python全能Web开发框架
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Python微型Web开发框架
-- [FastAPI](https://fastapi.tiangolo.com/): Python高性能Web接口开发框架
-- [SQLAlchemy](https://www.sqlalchemy.org/): Python数据库操作ORM库
+- [Django](https://www.djangoproject.com/): Python全能Web开发框架。
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Python微型Web开发框架。
+- [FastAPI](https://fastapi.tiangolo.com/): Python高性能Web接口开发框架。
+- [SQLAlchemy](https://www.sqlalchemy.org/): Python数据库操作ORM库。
 
 ### Java
-- [Spring Boot](https://spring.io/projects/spring-boot/)：易用的Java Web开发框架
-- [Mybatis](https://mybatis.org/mybatis-3/zh_CN/index.html)：Java数据库操作框架
+- [Spring Boot](https://spring.io/projects/spring-boot/)：易用的Java Web开发框架。
+- [Mybatis](https://mybatis.org/mybatis-3/zh_CN/index.html)：Java数据库操作框架。
 
 ### Golang
-- [Gin](https://github.com/gin-gonic/gin): 简单易用的的Golang Web开发框架
-- [Gorm](https://github.com/go-gorm/gorm): Golang数据库操作ORM框架
+- [Gin](https://github.com/gin-gonic/gin): 简单易用的的Golang Web开发框架。
+- [Gorm](https://github.com/go-gorm/gorm): Golang数据库操作ORM框架。
 
 ### 前端
-- [Vue](https://cn.vuejs.org/): 渐进式Web前端开发框架, 有Vue2和Vue3两个版本
-- [Element UI](https://element.eleme.cn/#/zh-CN): 饿了么推出的Web前端组件库，支持Vue
-- [React](https://react.dev/): Meta推出的前端开发框架
-- [AntDesign](https://ant-design.antgroup.com/components/overview-cn)：阿里推出的Web前端组件库，支持React
-- [TDesign](https://tdesign.tencent.com/): 腾讯推出的前端组件库，支持Vue，React等
+- [Vue](https://cn.vuejs.org/): 渐进式Web前端开发框架, 有Vue2和Vue3两个版本。
+- [Element UI](https://element.eleme.cn/#/zh-CN): 饿了么推出的Web前端组件库，支持Vue。
+- [React](https://react.dev/): Meta推出的前端开发框架。
+- [AntDesign](https://ant-design.antgroup.com/components/overview-cn)：阿里推出的Web前端组件库，支持React。
+- [TDesign](https://tdesign.tencent.com/): 腾讯推出的前端组件库，支持Vue，React等。
 
 
 ## 其他
 
 ### 车载测试
-- [CANoe](https://www.vector.com/gb/en/products/products-a-z/software/canoe/): Vector推出的汽车HIL和SIL项目的开发和测试工具
-- [CANdelaStudio](https://www.vector.com/gb/en/products/products-a-z/software/candelastudio/): Vector推出的高效汽车数据诊断系统
-- [DiVa](https://www.vector.com/gb/en/products/products-a-z/software/canoediva/): Vector推出的汽车电子控制单元，自动化验证和诊断工具
-- [vTESTstudio](https://www.vector.com/at/en/products/products-a-z/software/vteststudio/): Vector推出的可视化汽车嵌入式系统自动化测试工具
-- [python-can](https://python-can.readthedocs.io/en/stable/#): CAN协议硬件Python操作库
+- [CANoe](https://www.vector.com/gb/en/products/products-a-z/software/canoe/): Vector推出的汽车HIL和SIL项目的开发和测试工具。
+- [CANdelaStudio](https://www.vector.com/gb/en/products/products-a-z/software/candelastudio/): Vector推出的高效汽车数据诊断系统。
+- [DiVa](https://www.vector.com/gb/en/products/products-a-z/software/canoediva/): Vector推出的汽车电子控制单元，自动化验证和诊断工具。
+- [vTESTstudio](https://www.vector.com/at/en/products/products-a-z/software/vteststudio/): Vector推出的可视化汽车嵌入式系统自动化测试工具。
+- [Python-can](https://python-can.readthedocs.io/en/stable/#): CAN协议硬件Python操作库。
 
 ### 搜索测试
-- 评价指标：准确率、精确率、召回率、MAP(Mean Average Precision-平均精度)和NDCG(Normalized Discounted Cumulative Gain-归一化折合增益值)、无结果率、MRR(平均倒数排名)、点击率等
-- 主要测试方法：A/B Testing，基于专家(主管)评价，或基于点击率统计评价
+- 评价指标：准确率、精确率、召回率、MAP(Mean Average Precision-平均精度)和NDCG(Normalized Discounted Cumulative Gain-归一化折合增益值)、无结果率、MRR(平均倒数排名)、点击率等。
+- 主要测试方法：A/B Testing，基于专家(主管)评价，或基于点击率统计评价。
 
 ### 大数据测试
-- [Apache Hadoop](https://hadoop.apache.org/): 开源大数据计算框架
-- [Apache Hive](https://hive.apache.org/): 开源大数据分布式容错数据仓库系统
-- [Apache Spark](https://spark.apache.org/): 开源大数据实时计算统一分析引擎
-- [Apache Flink](https://flink.apache.org/): 开源大数据流数据处理框架
+- [Apache Hadoop](https://hadoop.apache.org/): 开源大数据计算框架。
+- [Apache Hive](https://hive.apache.org/): 开源大数据分布式容错数据仓库系统。
+- [Apache Spark](https://spark.apache.org/): 开源大数据实时计算统一分析引擎。
+- [Apache Flink](https://flink.apache.org/): 开源大数据流数据处理框架。
 
 ### AI大模型测试
 
@@ -340,17 +341,19 @@
 ### 算法测试
 
 ### Web3区块链测试
-- [Remix](https://remix.ethereum.org/)：以太坊只能合约开发IDE，支持合约编程，编译，调试及部署
-- [Hardhat](https://hardhat.org/): 基于JavaScript或Typescript的以太坊应用测试框架
+- [Solidity](https://solidity-cn.readthedocs.io/zh/develop/): Solidity 是一门面向合约的、为实现智能合约而创建的高级编程语言。这门语言受到了C++，Python 和Javascript 语言的影响，设计的目的是能在以太坊虚拟机（EVM）上运行。
+- [Solidity by Example](https://solidity-by-example.org/): 通过简单示例介绍Solidity。
+- [Remix](https://remix.ethereum.org/)：以太坊只能合约开发IDE，支持合约编程，编译，调试及部署。
+- [Hardhat](https://hardhat.org/): 基于JavaScript或Typescript的以太坊应用测试框架。
 - [Wake](https://ackee.xyz/wake/docs/latest/): Wake是一个基于 Python 的 Solidity 开发和测试框架，内置漏洞检测器。
 - [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html): Ape 框架是一款易于使用的 Web3 开发工具。用户可以在一个命令行会话中编译、测试并与智能合约交互。凭借我们的模块化插件系统，Ape 支持多种合约语言和链。
 - [Brownie](https://github.com/eth-brownie/brownie): 针对以太坊虚拟机的基于 Python 的智能合约开发和测试框架。Python 版 Hardhat，Pytest 语法。
-- [Foundry](https://getfoundry.sh/introduction/getting-started/)：Foundry是一个基于Solidity语言的智能合约开发工具链。可以管理依赖项、编译项目、运行测试、部署，并允许从命令行[forge命令](https://getfoundry.sh/forge/reference/forge/)和通过 Solidity 脚本与链进行交互。
+- [Foundry](https://getfoundry.sh/introduction/getting-started/)：Foundry是一个基于Solidity语言的智能合约开发工具链。可以管理依赖项、编译项目、运行测试、部署，并允许从命令行[forge](https://getfoundry.sh/forge/reference/forge/)命令和通过 Solidity 脚本与链进行交互。
 - [Truffle](https://archive.trufflesuite.com/)：Truffle是一个基于Solidity,JavaScipt,TypeScript的全面只能合约开发工具套件。
 
 ### 用例生成  
 - [Graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架  
-- [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具  
+- [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具。
 
 
 ### AI辅助测试
