@@ -359,6 +359,7 @@
 ### AI辅助测试
 - AI辅助用例生成
 - AI辅助用例检查
+- [Agent QA](https://github.com/vostride/agent-qa): 面向自然语言 Web/移动端测试的自改进 QA Agent，具备持久测试记忆和自愈流程。
 
   
 ## 参考
